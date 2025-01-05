@@ -54,6 +54,10 @@
   line-height: 1.5;
 }
 
+.purpose-abstract-div {
+  margin-bottom: 0;
+}
+
 .purpose-registration-button {
   display: inline-block;
   background-color: rgb(187, 0, 0);
@@ -65,7 +69,7 @@
   border-radius: 7px;
   cursor: pointer;
   margin-top: 0;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .purpose-registration-button:hover {

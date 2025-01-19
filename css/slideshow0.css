@@ -132,7 +132,7 @@
 
 .banner-title {
   color: white;
-  font-size: 26px;
+  font-size: 24px;
   margin-bottom: 15px;
   text-align: center;
   text-shadow: 1px 1px 7px black;
@@ -153,11 +153,11 @@
   border-radius: 7px;
   color: white;
   text-align: center;
-  font-size: 20px;
+  font-size: 19px;
   font-weight: bold;
   text-decoration: none;
   padding: 10px 30px;
-  margin: 4px 10px;
+  margin: 4px 10px 10px 10px;
 }
 
 .registration-button:hover {
@@ -188,7 +188,7 @@
   }
 
   .banner-title {
-    font-size: 20px;
+    font-size: 16px;
     margin-bottom: 10px;
   }
 
@@ -199,7 +199,7 @@
   }
 
   .registration-button {
-    font-size: 20px;
+    font-size: 16px;
     margin: 6px 0;
     text-align: center;
   }

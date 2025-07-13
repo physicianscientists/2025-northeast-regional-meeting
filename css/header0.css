@@ -13,7 +13,7 @@
   top: 0;
   width: 100%;
   height: 84px;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 32, 91, 0.9);
   backdrop-filter: blur(5px); /* Blur effect */
   -webkit-backdrop-filter: blur(5px); /* Safari support */
   padding: 0 10%;
@@ -98,7 +98,7 @@
 }
 
 .li-anchor:hover {
-  background-color: rgb(153, 0, 0);
+  background-color: #FFC70A;
   transition: background-color 0.3s ease-in-out;
 }
 
@@ -126,7 +126,7 @@
 }
 
 .social-medias:hover {
-  background-color: rgb(153, 0, 0);
+  background-color: #FFC70A;
   transition: background-color 0.3s ease-in-out;
 }
 
@@ -156,7 +156,7 @@
     flex-direction: column;
     position: absolute;
     width: 100%;
-    background-color: rgb(153, 0, 0);
+    background-color: #FFC70A;
     padding: 10px;
     top: 84px; /* Starts at bottom of header bar */
     left: 0;

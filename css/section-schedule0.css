@@ -29,12 +29,12 @@
 .schedule-container th, td {
   padding: 12px;
   text-align: left;
-  border-bottom: 1px solid rgb(153, 0, 0);
+  border-bottom: 1px solid #00205B;
   word-wrap: break-word;
 }
 
 .schedule-container th {
-  background-color: rgb(153, 0, 0);
+  background-color: #00205B;
   color: white;
   font-size: 20px;
 }

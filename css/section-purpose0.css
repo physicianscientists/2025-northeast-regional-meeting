@@ -60,7 +60,7 @@
 
 .purpose-registration-button {
   display: inline-block;
-  background-color: rgb(187, 0, 0);
+  background-color: #283FAF;
   font-size: 16px;
   font-weight: bold;
   text-decoration: none;
@@ -73,13 +73,10 @@
 }
 
 .purpose-registration-button:hover {
-  background-color: rgb(255, 29, 29);
+  background-color: #FFC70A;
   transition: background-color 0.3s ease-in-out;
 }
 
-.hyatt-house {
-  color: rgb(255, 29, 29);;
-}
 
 .reg-desc {
   margin-right: 10px;

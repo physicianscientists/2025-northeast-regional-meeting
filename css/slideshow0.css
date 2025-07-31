@@ -160,6 +160,9 @@
   text-decoration: none;
   padding: 20px 30px;
   margin: 4px 10px 10px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .registration-button:hover {
